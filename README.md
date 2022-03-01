@@ -4,7 +4,7 @@
 
 ![alt text](https://github.com/shubham2510/BreastCancer/blob/main/output.jpeg?raw=true)
 
-#### YouTube link to see the working: https://youtu.be/ntSBQy5JriQ
+
 
 #### Working link: (Deployed on Heroku) https://cancer-flask-app.herokuapp.com/
 
