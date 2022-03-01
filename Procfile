@@ -1,1 +1,1 @@
-web: gunicorn app:breastcancerprediction25
+web: gunicorn app:app
