@@ -53,6 +53,7 @@ CREATE TABLE `predict` (
   `id` int(10) NOT NULL,
   `uid` varchar(10) NOT NULL,
   `predict` varchar(255) NOT NULL
+  `typeof` varchar(255) NOT NULL
 ) ENGINE=InnoDB DEFAULT CHARSET=utf8mb4;
 
 --
@@ -60,7 +61,7 @@ CREATE TABLE `predict` (
 --
 
 INSERT INTO `predict` (`id`, `uid`, `predict`) VALUES
-(24, '2',  '1');
+(24, '2',  '1','');
 
 -- --------------------------------------------------------
 
