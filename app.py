@@ -14,7 +14,7 @@ import pickle
 
 
 mydb = mysql.connector.connect(
-  host="https://remotemysql.com/",
+  host="remotemysql.com",
   user="MKnq4tnVGc",
   password="GmiR1Xo6G2",
   database="MKnq4tnVGc"
