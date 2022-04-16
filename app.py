@@ -14,10 +14,10 @@ import pickle
 
 
 mydb = mysql.connector.connect(
-  host="sql6.freemysqlhosting.net",
-  user="sql6476131",
-  password="kt49YJuiZj",
-  database="sql6476131"
+  host="https://remotemysql.com/",
+  user="MKnq4tnVGc",
+  password="GmiR1Xo6G2",
+  database="MKnq4tnVGc"
 )
 
 mycursor = mydb.cursor(buffered=True)
